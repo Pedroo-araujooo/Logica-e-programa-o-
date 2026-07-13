@@ -1,2 +1,0 @@
-# LogicaDeProgramação
-aprendendo a logica
